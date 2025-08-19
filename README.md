@@ -101,17 +101,9 @@ g++ -std=c++11 -O2 main.cpp -o calculator
 ## 📁 Repository Structure
 ``` bash
 Calculator/
-├── src/                    # Source code directory
-│   ├── main.cpp           # Main program entry point
-│   ├── LinkedList.hpp     # Linked list implementation
-│   ├── Stack.hpp         # Stack data structure
-│   └── Calculator.hpp    # Core calculator logic
-├── docs/                  # Documentation
-├── tests/                # Test cases
-```
-
+├── Calculator.cpp       # Main program entry point
 └── README.md            # This file
-
+```
 
 ## 📜 License
 📄 This project is licensed under the MIT License - see the LICENSE file for details.
